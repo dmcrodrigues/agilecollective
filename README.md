@@ -6,6 +6,7 @@
 <h4 align="center">The ultimate place to find/share books, articles, podcasts - to get people started on the agile mindset.</h4>
 
 Agile Collective is a wiki run by agile practioners for agile practicioners :boom:
+
 It's aim is to serve as a go-to wiki :books: 
 - for people who are interested in getting know more about agile and
 - for people who already know a lot and would like to give back.
